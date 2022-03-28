@@ -1,0 +1,19 @@
+{
+    "liste": [
+        {
+            "Nom": "¨Perrin",
+            "Prenom": "Léo",
+            "Age" : 18
+        },
+        {
+            "Nom" : "Petit",
+            "Prenom" : "Loic",
+            "Age" : 32
+        },
+        {
+            "Nom": "Leroux",
+            "Prenom": "Pierre",
+            "Age": 27
+        }
+    ]
+}
